@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooODT Extended\n"
+"POT-Creation-Date: 2017-10-26 21:23+0530\n"
+"PO-Revision-Date: 2017-10-26 21:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ByConsoleWooODT.php:1329
+msgid "Order delivery time widget"
+msgstr "Lieferfrist Widget bestellen"
+
+#: ByConsoleWooODT.php:1353
+msgid "Widget for users to choose time and date of delivery"
+msgstr "Widget für Benutzer, um Zeit und Datum der Lieferung zu wählen"
+
+#: ByConsoleWooODT.php:2947 ByConsoleWooODT.php:10015 ByConsoleWooODT.php:20433
+#: ByConsoleWooODT.php:22470
+msgid "Select delivery location"
+msgstr "Lieferort auswählen"
+
+#: ByConsoleWooODT.php:3067 ByConsoleWooODT.php:5207 ByConsoleWooODT.php:9863
+#: ByConsoleWooODT.php:10049
+msgid "No bar"
+msgstr "Keine Begrenzung"
+
+#: ByConsoleWooODT.php:7725 ByConsoleWooODT.php:10759
+msgid "ERROR : Please contact Vendor"
+msgstr ""
+
+#: ByConsoleWooODT.php:8181
+msgid "New title"
+msgstr "Neuer Titel"
+
+#: ByConsoleWooODT.php:8241
+msgid "Title:"
+msgstr "Titel:"
+
+#: ByConsoleWooODT.php:9483 ByConsoleWooODT.php:9613 ByConsoleWooODT.php:9731
+msgid "Select delivery type"
+msgstr "Lieferart auswählen"
+
+#: ByConsoleWooODT.php:9925
+msgid "Choose pickup location"
+msgstr "Abholort wählen"
+
+#: ByConsoleWooODT.php:10131 ByConsoleWooODT.php:10459
+msgid "Choose delivery location"
+msgstr "Lieferort wählen"
+
+#: ByConsoleWooODT.php:11722 ByConsoleWooODT.php:11766
+msgid "Enter your desired pickup date."
+msgstr "Geben Sie das gewünschte Abholdatum ein."
+
+#: ByConsoleWooODT.php:11728 ByConsoleWooODT.php:11772
+msgid "Enter your desired pickup time."
+msgstr "Geben Sie die gewünschte Abholzeit ein."
+
+#: ByConsoleWooODT.php:11856 ByConsoleWooODT.php:11942
+msgid "Enter your desired delivery date."
+msgstr "Geben Sie das gewünschte Lieferdatum ein."
+
+#: ByConsoleWooODT.php:11866 ByConsoleWooODT.php:11952
+msgid "Enter your desired delivery time."
+msgstr "Geben Sie Ihre gewünschte Lieferzeit ein."
+
+#: ByConsoleWooODT.php:12476
+#: inc/shortcodes/bycwooodt_order_date_time_location.php:41
+msgid "<p>No pickup location was selected</p>"
+msgstr "<p>Es wurde kein Abholort ausgewählt</p>"
+
+#: ByConsoleWooODT.php:12664 ByConsoleWooODT.php:13269
+#: ByConsoleWooODT.php:13813
+#: inc/shortcodes/bycwooodt_order_date_time_location.php:115
+msgid "<p>No delivery loaction was selected</p>"
+msgstr "<p>Kein Lieferort ausgewählt</p>"
+
+#: ByConsoleWooODT.php:13048 ByConsoleWooODT.php:13635
+msgid "<p>No pickup loaction was selected</p>"
+msgstr "<P>Es wurde kein Abholort ausgewählt</p>"
+
+#: ByConsoleWooODT.php:16030
+msgid "Select delivery time"
+msgstr "Lieferzeit wählen"
+
+#: ByConsoleWooODT.php:17816
+msgid "Please select a date equal to or greater than current date"
+msgstr ""
+"Bitte wählen Sie ein Datum, das größer oder gleich dem aktuellen Datum ist"
+
+#: ByConsoleWooODT.php:17840
+msgid "Please select a location first"
+msgstr "Bitte wähle zuerst einen Ort aus"
+
+#: ByConsoleWooODT.php:20431
+msgid "Select pick-up location"
+msgstr "Abholort auswählen"
+
+#: inc/admin.php:221
+msgid "Enable multiple pickup location."
+msgstr "Aktivieren Sie mehrere Abholpositionen."
+
+#: inc/admin.php:1092 inc/admin.php:1936 inc/admin.php:1994 inc/admin.php:2010
+#: inc/admin.php:2056 inc/admin.php:2060 inc/admin.php:2076 inc/admin.php:2080
+#: inc/admin.php:2094 inc/admin.php:2114 inc/admin.php:2136 inc/admin.php:2180
+#: inc/admin.php:2184 inc/admin.php:2200 inc/admin.php:2204
+#: inc/language-translator.php:52 inc/language-translator.php:65
+#: inc/language-translator.php:76 inc/language-translator.php:85
+#: inc/language-translator.php:94 inc/language-translator.php:104
+#: inc/language-translator.php:113 inc/language-translator.php:122
+#: inc/language-translator.php:132 inc/language-translator.php:140
+#: inc/language-translator.php:148 inc/language-translator.php:156
+#: inc/language-translator.php:164 inc/language-translator.php:176
+#: inc/language-translator.php:184 inc/language-translator.php:192
+#: inc/language-translator.php:200 inc/language-translator.php:208
+#: inc/language-translator.php:216 inc/language-translator.php:224
+#: inc/language-translator.php:232 inc/language-translator.php:240
+#: inc/language-translator.php:248 inc/language-translator.php:259
+#: inc/language-translator.php:270 inc/wooodt-color-picker.php:53
+#: inc/wooodt-color-picker.php:63 inc/wooodt-color-picker.php:73
+#: inc/wooodt-color-picker.php:82 inc/wooodt-color-picker.php:90
+#: inc/wooodt-color-picker.php:99 inc/wooodt-color-picker.php:108
+#: inc/wooodt-color-picker.php:118 inc/wooodt_features_settings.php:153
+#: inc/wooodt_features_settings.php:173
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/admin.php:1150
+msgid "Enable multiple delivery location."
+msgstr "Mehrere Zustellungsorte aktivieren"
+
+#: inc/admin.php:1938 inc/language-translator.php:77
+msgid "Texts to display on checkout page as section heading."
+msgstr ""
+"Texte, die auf der Checkout-Seite als Abschnittsüberschrift angezeigt werden."
+
+#: inc/admin.php:1962
+msgid "24 hours or 12 hours with AM / PM."
+msgstr "24 Stunden oder 12 Stunden mit AM / PM."
+
+#: inc/admin.php:1996
+msgid ""
+"Leave blank not to set any pre-order days, this is number of days from "
+"current date customer can place an order."
+msgstr ""
+"Lassen Sie das Feld leer, um keine Vorbestellungstage festzulegen. Dies ist "
+"die Anzahl der Tage ab dem aktuellen Datum, an dem der Kunde eine Bestellung "
+"aufgeben kann."
+
+#: inc/admin.php:2012
+msgid ""
+"Leave blank to not set any restricted pre-order days,This is number of days "
+"customer can not place an order before these number of days from current "
+"date."
+msgstr ""
+"Lassen Sie das Feld leer, um keine eingeschränkten Vorbestellungstage "
+"festzulegen. Dies ist die Anzahl der Tage, an denen der Kunde eine "
+"Bestellung nicht vor dieser Anzahl von Tagen ab dem aktuellen Datum aufgeben "
+"darf."
+
+#: inc/admin.php:2027
+msgid ""
+"If checked then it will increase lead time by x number of days, where x is "
+"the number of holidays fall within above pre-order restriction days counted "
+"from current date. "
+msgstr ""
+"Wenn diese Option aktiviert ist, verlängert sich die Durchlaufzeit um x "
+"Anzahl der Tage, wobei x die Anzahl der Feiertage ist, die innerhalb der "
+"Vororder-Beschränkungstage liegen, die vom aktuellen Datum an gerechnet "
+"werden."
+
+#: inc/admin.php:2040
+msgid "If checked then shop will accept order on holidays."
+msgstr ""
+"Wenn dies aktiviert ist, akzeptiert das Geschäft die Bestellung im Urlaub."
+
+#: inc/admin.php:2054 inc/admin.php:2074 inc/admin.php:2178 inc/admin.php:2198
+msgid "From"
+msgstr "Von"
+
+#: inc/admin.php:2058 inc/admin.php:2078 inc/admin.php:2182 inc/admin.php:2202
+msgid "To"
+msgstr "Nach"
+
+#: inc/admin.php:2062
+msgid "Allowbale Pickup Time."
+msgstr "Zulässige Abholzeit."
+
+#: inc/admin.php:2082
+msgid "Allowbale Delivery Time."
+msgstr "Zulässige Lieferzeit."
+
+#: inc/admin.php:2096
+msgid ""
+"This is minimum waiting time, applied on time dropdown on front-end in case "
+"of same day delivery/pickup."
+msgstr ""
+"Dies ist die minimale Wartezeit, die im Falle einer Lieferung / Abholung am "
+"selben Tag auf das Zeitlimit im Frontend angewendet wird."
+
+#: inc/admin.php:2116
+msgid ""
+"Customers need to place an order before this time for next day pickup, leave "
+"balnk for no restriction."
+msgstr ""
+"Kunden müssen vor dieser Zeit eine Bestellung für die Abholung am nächsten "
+"Tag aufgeben, ohne Einschränkungen zu lassen."
+
+#: inc/admin.php:2138
+msgid ""
+"Customers need to place an order before this time for next day delivery, "
+"leave balnk for no restriction."
+msgstr ""
+"Kunden müssen eine Bestellung vor diesem Zeitpunkt für die Lieferung am "
+"nächsten Tag aufgeben, ohne Einschränkung."
+
+#: inc/admin.php:2166
+msgid ""
+"Choose if tracking text have to be shown on top(before order product list) "
+"or bottom(after product list)."
+msgstr ""
+"Wählen Sie aus, ob der Tracking-Text oben (vor der Produktliste) oder unten "
+"(nach der Produktliste) angezeigt werden soll."
+
+#: inc/admin.php:2186
+msgid "The time for which no opening will be Proceeded."
+msgstr "Die Zeit, für die keine Öffnung verarbeitet wird."
+
+#: inc/admin.php:2206
+msgid "The time for which no delivery will be Proceeded."
+msgstr "Die Zeit, für die keine Lieferung verarbeitet wird."
+
+#: inc/language-translator.php:54
+msgid "This is the text showed in Order Delivered page."
+msgstr ""
+"Dies ist der Text, der auf der Seite \"Bestellung geliefert\" angezeigt wird."
+
+#: inc/language-translator.php:55
+msgid "Eg: The order will be delivered on"
+msgstr "ZB: Die Bestellung wird an"
+
+#: inc/language-translator.php:55 inc/language-translator.php:67
+msgid "at"
+msgstr "beim"
+
+#: inc/language-translator.php:66
+msgid "This is the text showed in Order Picked Up page."
+msgstr ""
+"Dies ist der Text, der auf der Seite \"Order Picked Up\" angezeigt wird."
+
+#: inc/language-translator.php:67
+msgid "Eg: The order can be Picked Up on"
+msgstr "ZB: Die Bestellung kann aufgehoben werden"
+
+#: inc/language-translator.php:86 inc/language-translator.php:105
+msgid "Displayed as time drop-down lebel on checkout page."
+msgstr "Wird als Zeit-Dropdown-Etikett auf der Checkout-Seite angezeigt."
+
+#: inc/language-translator.php:95
+msgid "Displayed as calendar lebel on checkout page."
+msgstr "Wird als Kalenderbeschriftung auf der Checkout-Seite angezeigt."
+
+#: inc/language-translator.php:114
+msgid "Displayed as pickup location drop-down lebel on checkout page."
+msgstr "Angezeigt als Dropdown-Label für den Abholort auf der Checkout-Seite."
+
+#: inc/language-translator.php:123
+msgid "Displayed as delivery location drop-down lebel on checkout page."
+msgstr ""
+"Angezeigt als Dropdown-Label für den Versandort auf der Checkout-Seite."
+
+#: inc/language-translator.php:165
+msgid "Displayed as store close notice drop-down lebel on checkout page."
+msgstr "Dropdown-Label auf der Checkout-Seite als Store geschlossen angezeigt."
+
+#: inc/language-translator.php:177
+msgid "Displayed as pickup lebel on checkout page."
+msgstr "Wird als Abholetikett auf der Checkout-Seite angezeigt."
+
+#: inc/language-translator.php:185
+msgid "Displayed as delivery lebel on checkout page."
+msgstr "Wird als Versandetikett auf der Checkout-Seite angezeigt."
+
+#: inc/language-translator.php:193
+msgid "Displayed order type lebel on order page."
+msgstr "Bestellartenschild auf der Bestellseite anzeigen."
+
+#: inc/language-translator.php:201
+msgid "Displayed pickup location lebel on order page."
+msgstr "Angezeigtes Etikett für den Abholort auf der Bestellseite."
+
+#: inc/language-translator.php:209
+msgid "Displayed pickup date lebel on order page."
+msgstr "Angezeigtes Abholdatum-Label auf der Bestellseite."
+
+#: inc/language-translator.php:217
+msgid "Displayed pickup time lebel on order page."
+msgstr "Angezeigtes Aufnahmedatum auf der Bestellseite."
+
+#: inc/language-translator.php:225
+msgid "Displayed delivery location lebel on order page."
+msgstr "Angezeigte Lieferortbezeichnung auf der Bestellseite."
+
+#: inc/language-translator.php:233
+msgid "Displayed delivery date lebel on order page."
+msgstr "Lieferdatum auf der Bestellseite anzeigen."
+
+#: inc/language-translator.php:241
+msgid "Displayed delivery time lebel on order page."
+msgstr "Angezeigtes Lieferungsetikett auf der Bestellseite."
+
+#: inc/language-translator.php:249
+msgid "Calender holiday lable."
+msgstr "Kalender-Feiertagsaufkleber."
+
+#: inc/language-translator.php:260
+msgid "Calender closing lable."
+msgstr "Kalenderschließende Beschriftung."
+
+#: inc/language-translator.php:271
+msgid "Calender date pick not allowed lable."
+msgstr "Kalender Datumsauswahl nicht erlaubt Label."
+
+#: inc/wooodt_features_settings.php:155
+msgid "Displayed as early as possible lebel on checkout page and widget area."
+msgstr ""
+"Erscheint so früh wie möglich Label auf der Checkout-Seite und Widget-"
+"Bereich."
+
+#: inc/wooodt_features_settings.php:175
+msgid "Displayed exact time lebel on checkout page and widget area."
+msgstr ""
+"Genaue Zeitmarke auf der Checkout-Seite und im Widget-Bereich anzeigen."

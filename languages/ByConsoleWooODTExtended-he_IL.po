@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooODT Extended\n"
+"POT-Creation-Date: 2017-10-25 14:16+0530\n"
+"PO-Revision-Date: 2017-10-25 20:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: ByConsole\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ByConsoleWooODT.php:665
+msgid "Order delivery time widget"
+msgstr "סדר משלוח זמן יישומון"
+
+#: ByConsoleWooODT.php:677
+msgid "Widget for users to choose time and date of delivery"
+msgstr "יישומון עבור המשתמשים לבחור זמן ותאריך המסירה"
+
+#: ByConsoleWooODT.php:1559 ByConsoleWooODT.php:2631 ByConsoleWooODT.php:4961
+#: ByConsoleWooODT.php:5058
+msgid "No bar"
+msgstr "אין גבול"
+
+#: ByConsoleWooODT.php:3892 ByConsoleWooODT.php:5430
+msgid "ERROR : Please contact Vendor"
+msgstr "שגיאה: צור קשר עם הספק"
+
+#: ByConsoleWooODT.php:4120
+msgid "New title"
+msgstr "כותרת חדשה"
+
+#: ByConsoleWooODT.php:4150
+msgid "Title:"
+msgstr "כותרת:"
+
+#: ByConsoleWooODT.php:4771 ByConsoleWooODT.php:4836 ByConsoleWooODT.php:4895
+msgid "Select delivery type"
+msgstr "בחר סוג מסירה"
+
+#: ByConsoleWooODT.php:4996
+msgid "Choose pickup location"
+msgstr "בחר מיקום איסוף"
+
+#: ByConsoleWooODT.php:5101 ByConsoleWooODT.php:5280
+msgid "Choose delivery location"
+msgstr "בחר מיקום משלוח"
+
+#: ByConsoleWooODT.php:6099 ByConsoleWooODT.php:6121
+msgid "Enter your desired pickup date."
+msgstr "הזן את תאריך האיסוף הרצוי."
+
+#: ByConsoleWooODT.php:6102 ByConsoleWooODT.php:6124
+msgid "Enter your desired pickup time."
+msgstr "הזן את זמן האיסוף הרצוי."
+
+#: ByConsoleWooODT.php:6166 ByConsoleWooODT.php:6209
+msgid "Enter your desired delivery date."
+msgstr "הזן את תאריך המשלוח הרצוי."
+
+#: ByConsoleWooODT.php:6171 ByConsoleWooODT.php:6214
+msgid "Enter your desired delivery time."
+msgstr "הזן את זמן המסירה הרצוי."
+
+#: ByConsoleWooODT.php:6476
+#: inc/shortcodes/bycwooodt_order_date_time_location.php:41
+msgid "<p>No pickup location was selected</p>"
+msgstr "<p>לא נבחר מיקום איסוף</p>"
+
+#: ByConsoleWooODT.php:6735 ByConsoleWooODT.php:7003
+msgid "<p>No pickup loaction was selected</p>"
+msgstr "<p>לא נבחר מיקום איסוף</p>"
+
+#: ByConsoleWooODT.php:9141
+msgid "Please select a date equal to or greater than current date"
+msgstr "בחר תאריך השווה לתאריך הנוכחי או גדול ממנו"
+
+#: ByConsoleWooODT.php:9153
+msgid "Please select a location first"
+msgstr "בחר תחילה מיקום"
+
+#: ByConsoleWooODT.php:10670
+msgid "Select pick-up location"
+msgstr "בחר מיקום איסוף"
+
+#: ByConsoleWooODT.php:10672
+msgid "Select delivery location"
+msgstr "בחר מיקום משלוח"
+
+#: ByConsoleWooODT.php:11585 ByConsoleWooODT.php:11589
+msgid "Next"
+msgstr "הַבָּא"
+
+#: ByConsoleWooODT.php:11587 ByConsoleWooODT.php:11591
+msgid "Prev"
+msgstr "קודם"
+
+#: inc/admin.php:221
+msgid "Enable multiple pickup location."
+msgstr "הפעל מיקום איסוף מרובים."
+
+#: inc/admin.php:1092 inc/admin.php:1936 inc/admin.php:1994 inc/admin.php:2010
+#: inc/admin.php:2056 inc/admin.php:2060 inc/admin.php:2076 inc/admin.php:2080
+#: inc/admin.php:2094 inc/admin.php:2114 inc/admin.php:2136 inc/admin.php:2180
+#: inc/admin.php:2184 inc/admin.php:2200 inc/admin.php:2204
+#: inc/language-translator.php:52 inc/language-translator.php:65
+#: inc/language-translator.php:76 inc/language-translator.php:85
+#: inc/language-translator.php:94 inc/language-translator.php:104
+#: inc/language-translator.php:113 inc/language-translator.php:122
+#: inc/language-translator.php:132 inc/language-translator.php:140
+#: inc/language-translator.php:148 inc/language-translator.php:156
+#: inc/language-translator.php:164 inc/language-translator.php:176
+#: inc/language-translator.php:184 inc/language-translator.php:192
+#: inc/language-translator.php:200 inc/language-translator.php:208
+#: inc/language-translator.php:216 inc/language-translator.php:224
+#: inc/language-translator.php:232 inc/language-translator.php:240
+#: inc/language-translator.php:248 inc/language-translator.php:259
+#: inc/language-translator.php:270 inc/wooodt-color-picker.php:53
+#: inc/wooodt-color-picker.php:63 inc/wooodt-color-picker.php:73
+#: inc/wooodt-color-picker.php:82 inc/wooodt-color-picker.php:90
+#: inc/wooodt-color-picker.php:99 inc/wooodt-color-picker.php:108
+#: inc/wooodt-color-picker.php:118 inc/wooodt_features_settings.php:153
+#: inc/wooodt_features_settings.php:173
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/admin.php:1150
+msgid "Enable multiple delivery location."
+msgstr "הפעל מיקום משלוח מרובה."
+
+#: inc/admin.php:1938 inc/language-translator.php:77
+msgid "Texts to display on checkout page as section heading."
+msgstr "טקסטים להצגה בדף היציאה כקטע בסעיף."
+
+#: inc/admin.php:1962
+msgid "24 hours or 12 hours with AM / PM."
+msgstr "24 שעות או 12 שעות עם AM / PM."
+
+#: inc/admin.php:1996
+msgid ""
+"Leave blank not to set any pre-order days, this is number of days from "
+"current date customer can place an order."
+msgstr ""
+"השאר ריק כדי להגדיר כל הזמנה מראש ימים, זה מספר ימים מיום הלקוח הנוכחי יכול "
+"לבצע הזמנה."
+
+#: inc/admin.php:2012
+msgid ""
+"Leave blank to not set any restricted pre-order days,This is number of days "
+"customer can not place an order before these number of days from current "
+"date."
+msgstr ""
+"השאר ריק כדי לא להגדיר ימים מראש הזמנה מראש, זה מספר ימים הלקוח לא יכול לבצע "
+"הזמנה לפני מספר ימים אלה מהתאריך הנוכחי."
+
+#: inc/admin.php:2027
+msgid ""
+"If checked then it will increase lead time by x number of days, where x is "
+"the number of holidays fall within above pre-order restriction days counted "
+"from current date. "
+msgstr ""
+"אם מסומנת אז זה יגדיל את זמן ההובלה על ידי x מספר ימים, כאשר x הוא מספר "
+"החגים נופלים בתוך מעל ימים מראש הגבלת הזמן נספר מהתאריך הנוכחי."
+
+#: inc/admin.php:2040
+msgid "If checked then shop will accept order on holidays."
+msgstr "אם מסומנת אז החנות תקבל את ההזמנה בחגים."
+
+#: inc/admin.php:2054 inc/admin.php:2074 inc/admin.php:2178 inc/admin.php:2198
+msgid "From"
+msgstr "מ"
+
+#: inc/admin.php:2058 inc/admin.php:2078 inc/admin.php:2182 inc/admin.php:2202
+msgid "To"
+msgstr "ל"
+
+#: inc/admin.php:2062
+msgid "Allowbale Pickup Time."
+msgstr "זמן איסוף."
+
+#: inc/admin.php:2082
+msgid "Allowbale Delivery Time."
+msgstr "זמן אספקה מותר."
+
+#: inc/admin.php:2096
+msgid ""
+"This is minimum waiting time, applied on time dropdown on front-end in case "
+"of same day delivery/pickup."
+msgstr ""
+"זהו זמן המתנה מינימלי, מיושם על הזמן הנפתח על frontend במקרה של אותו יום "
+"משלוח / איסוף."
+
+#: inc/admin.php:2116
+msgid ""
+"Customers need to place an order before this time for next day pickup, leave "
+"balnk for no restriction."
+msgstr ""
+"לקוחות צריכים לבצע הזמנה לפני מועד זה לטנדר ביום הבא, להשאיר ריק ללא הגבלה."
+
+#: inc/admin.php:2138
+msgid ""
+"Customers need to place an order before this time for next day delivery, "
+"leave balnk for no restriction."
+msgstr ""
+"לקוחות צריכים לבצע הזמנה לפני מועד זה למסירה ביום הבא, להשאיר ריק ללא הגבלה."
+
+#: inc/admin.php:2166
+msgid ""
+"Choose if tracking text have to be shown on top(before order product list) "
+"or bottom(after product list)."
+msgstr ""
+"בחר אם טקסט המעקב צריך להיות מוצג בראש (לפני רשימת מוצר) או תחתית (לאחר "
+"רשימת המוצרים)."
+
+#: inc/admin.php:2186
+msgid "The time for which no opening will be Proceeded."
+msgstr "הזמן שבו לא ייפתח שום פתיחה."
+
+#: inc/admin.php:2206
+msgid "The time for which no delivery will be Proceeded."
+msgstr "הזמן שבו לא מסירה יעובדו."
+
+#: inc/language-translator.php:54
+msgid "This is the text showed in Order Delivered page."
+msgstr "זהו הטקסט שמוצג בדף 'מסודר'."
+
+#: inc/language-translator.php:55
+msgid "Eg: The order will be delivered on"
+msgstr "למשל: ההזמנה תועבר"
+
+#: inc/language-translator.php:55 inc/language-translator.php:67
+msgid "at"
+msgstr "בְּ-"
+
+#: inc/language-translator.php:66
+msgid "This is the text showed in Order Picked Up page."
+msgstr "זהו הטקסט המוצג בדף 'איסוף הזמנות'."
+
+#: inc/language-translator.php:67
+msgid "Eg: The order can be Picked Up on"
+msgstr "לדוגמה: ניתן להזמין את ההזמנה"
+
+#: inc/language-translator.php:86 inc/language-translator.php:105
+msgid "Displayed as time drop-down lebel on checkout page."
+msgstr "מוצג כתווית נפתחת בזמן בדף הקופה."
+
+#: inc/language-translator.php:95
+msgid "Displayed as calendar lebel on checkout page."
+msgstr "מוצג כמו לוח ללבל על דף checkout.Displayed כמו לוח בלבל על דף היציאה."
+
+#: inc/language-translator.php:114
+msgid "Displayed as pickup location drop-down lebel on checkout page."
+msgstr "מוצג כתווית הנפתחת של מיקום האיסוף בדף הקופה."
+
+#: inc/language-translator.php:123
+msgid "Displayed as delivery location drop-down lebel on checkout page."
+msgstr "מוצג כתווית נפתחת של מיקום האספקה בדף היציאה."
+
+#: inc/language-translator.php:165
+msgid "Displayed as store close notice drop-down lebel on checkout page."
+msgstr "מוצג כתווית סגורה של חנות הנפתחת על דף היציאה."
+
+#: inc/language-translator.php:177
+msgid "Displayed as pickup lebel on checkout page."
+msgstr "מוצג כתווית איסוף בדף היציאה."
+
+#: inc/language-translator.php:185
+msgid "Displayed as delivery lebel on checkout page."
+msgstr "מוצג כתווית מסירה בדף היציאה."
+
+#: inc/language-translator.php:193
+msgid "Displayed order type lebel on order page."
+msgstr "הצג תווית סוג הזמנה בדף ההזמנה."
+
+#: inc/language-translator.php:201
+msgid "Displayed pickup location lebel on order page."
+msgstr "הצג תווית מיקום איסוף בדף ההזמנה."
+
+#: inc/language-translator.php:209
+msgid "Displayed pickup date lebel on order page."
+msgstr "תווית התאריך המוצגת בדף ההזמנה."
+
+#: inc/language-translator.php:217
+msgid "Displayed pickup time lebel on order page."
+msgstr "תווית זמן האיסוף המוצגת בדף ההזמנה."
+
+#: inc/language-translator.php:225
+msgid "Displayed delivery location lebel on order page."
+msgstr "הצגת תווית מיקום המשלוח בדף ההזמנה."
+
+#: inc/language-translator.php:233
+msgid "Displayed delivery date lebel on order page."
+msgstr "הצגת תווית תאריך המשלוח בדף ההזמנה."
+
+#: inc/language-translator.php:241
+msgid "Displayed delivery time lebel on order page."
+msgstr "תווית זמן אספקה מסודרת בדף ההזמנה."
+
+#: inc/language-translator.php:249
+msgid "Calender holiday lable."
+msgstr "לוח שנה של לוח שנה."
+
+#: inc/language-translator.php:260
+msgid "Calender closing lable."
+msgstr "תווית הסגירה של היומן."
+
+#: inc/language-translator.php:271
+msgid "Calender date pick not allowed lable."
+msgstr "לא ניתן לבחור את תווית תאריך היומן."
+
+#: inc/shortcodes/bycwooodt_order_date_time_location.php:115
+msgid "<p>No delivery loaction was selected</p>"
+msgstr "<p>לא נבחר מיקום משלוח</p>"
+
+#: inc/wooodt_features_settings.php:155
+msgid "Displayed as early as possible lebel on checkout page and widget area."
+msgstr "הוצג מוקדם ככל האפשר התווית על דף היציאה ואת אזור יישומון."
+
+#: inc/wooodt_features_settings.php:175
+msgid "Displayed exact time lebel on checkout page and widget area."
+msgstr "הצגת תווית זמן מדויקת בדף היציאה ובאזור הוידג'ט."

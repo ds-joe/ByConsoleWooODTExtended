@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-11 00:35+0530\n"
+"PO-Revision-Date: 2020-11-11 00:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ByConsoleWooODT.php:582
+msgid "Order delivery time widget"
+msgstr ""
+
+#: ByConsoleWooODT.php:588
+msgid "Widget for users to choose time and date of delivery"
+msgstr ""
+
+#: ByConsoleWooODT.php:1015 ByConsoleWooODT.php:4003 ByConsoleWooODT.php:4118
+#: ByConsoleWooODT.php:14888
+msgid "Select delivery location"
+msgstr ""
+
+#: ByConsoleWooODT.php:1046 ByConsoleWooODT.php:1803 ByConsoleWooODT.php:3824
+#: ByConsoleWooODT.php:4030
+msgid "No bar"
+msgstr ""
+
+#: ByConsoleWooODT.php:2643 ByConsoleWooODT.php:4624
+msgid "No time is available for to day"
+msgstr ""
+
+#: ByConsoleWooODT.php:2754 ByConsoleWooODT.php:4694
+msgid "ERROR : Please contact Vendor"
+msgstr ""
+
+#: ByConsoleWooODT.php:2872
+msgid "New title"
+msgstr ""
+
+#: ByConsoleWooODT.php:2887
+msgid "Title:"
+msgstr ""
+
+#: ByConsoleWooODT.php:3507 ByConsoleWooODT.php:3612 ByConsoleWooODT.php:3714
+msgid "Select delivery type"
+msgstr ""
+
+#: ByConsoleWooODT.php:3918
+msgid "Select pickup location"
+msgstr ""
+
+#: ByConsoleWooODT.php:3946
+msgid "Choose pickup location"
+msgstr ""
+
+#: ByConsoleWooODT.php:4146 ByConsoleWooODT.php:4565
+msgid "Choose delivery location"
+msgstr ""
+
+#: ByConsoleWooODT.php:4194 ByConsoleWooODT.php:4227
+msgid "Select Time"
+msgstr ""
+
+#: ByConsoleWooODT.php:5206 ByConsoleWooODT.php:5274
+msgid "Enter your desired pickup date."
+msgstr ""
+
+#: ByConsoleWooODT.php:5219 ByConsoleWooODT.php:5292
+msgid "Enter your desired pickup time."
+msgstr ""
+
+#: ByConsoleWooODT.php:5394 ByConsoleWooODT.php:5504
+msgid "Enter your desired delivery date."
+msgstr ""
+
+#: ByConsoleWooODT.php:5415 ByConsoleWooODT.php:5523
+msgid "Enter your desired delivery time."
+msgstr ""
+
+#: ByConsoleWooODT.php:5951
+#: inc/shortcodes/bycwooodt_order_date_time_location.php:41
+msgid "<p>No pickup location was selected</p>"
+msgstr ""
+
+#: ByConsoleWooODT.php:6215 ByConsoleWooODT.php:6947 ByConsoleWooODT.php:7656
+#: inc/shortcodes/bycwooodt_order_date_time_location.php:115
+msgid "<p>No delivery loaction was selected</p>"
+msgstr ""
+
+#: ByConsoleWooODT.php:6638 ByConsoleWooODT.php:7401
+msgid "<p>No pickup loaction was selected</p>"
+msgstr ""
+
+#: ByConsoleWooODT.php:9461
+msgid "Select time"
+msgstr ""
+
+#: ByConsoleWooODT.php:9599
+msgid "Order limit is over"
+msgstr ""
+
+#: ByConsoleWooODT.php:9807
+msgid "Select delivery time"
+msgstr ""
+
+#: ByConsoleWooODT.php:11559
+msgid "Please select a date equal to or greater than current date"
+msgstr ""
+
+#: ByConsoleWooODT.php:11577
+msgid "Please select a location first"
+msgstr ""
+
+#: inc/admin.php:560 inc/admin.php:665 inc/admin.php:689 inc/admin.php:783
+#: inc/admin.php:789 inc/admin.php:813 inc/admin.php:819 inc/admin.php:840
+#: inc/admin.php:883 inc/admin.php:947 inc/admin.php:999 inc/admin.php:1032
+#: inc/admin.php:1098 inc/admin.php:1104 inc/admin.php:1128 inc/admin.php:1134
+#: inc/bycwooodt_location_field_settings.php:1050
+#: inc/bycwooodt_location_field_settings.php:2113
+#: inc/language-translator.php:63 inc/language-translator.php:104
+#: inc/language-translator.php:139 inc/language-translator.php:168
+#: inc/language-translator.php:197 inc/language-translator.php:229
+#: inc/language-translator.php:258 inc/language-translator.php:287
+#: inc/language-translator.php:319 inc/language-translator.php:345
+#: inc/language-translator.php:371 inc/language-translator.php:397
+#: inc/language-translator.php:423 inc/language-translator.php:450
+#: inc/language-translator.php:476 inc/language-translator.php:502
+#: inc/language-translator.php:528 inc/language-translator.php:554
+#: inc/language-translator.php:580 inc/language-translator.php:606
+#: inc/language-translator.php:632 inc/language-translator.php:658
+#: inc/language-translator.php:684 inc/language-translator.php:710
+#: inc/language-translator.php:736 inc/language-translator.php:763
+#: inc/wooodt-color-picker.php:64 inc/wooodt-color-picker.php:94
+#: inc/wooodt-color-picker.php:124 inc/wooodt-color-picker.php:151
+#: inc/wooodt-color-picker.php:175 inc/wooodt-color-picker.php:202
+#: inc/wooodt-color-picker.php:229 inc/wooodt-color-picker.php:259
+#: inc/wooodt_features_settings.php:291 inc/wooodt_features_settings.php:318
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/admin.php:563 inc/language-translator.php:142
+msgid "Texts to display on checkout page as section heading."
+msgstr ""
+
+#: inc/admin.php:599
+msgid "24 hours or 12 hours with AM / PM."
+msgstr ""
+
+#: inc/admin.php:668
+msgid ""
+"Leave blank not to set any pre-order days, this is number of days from "
+"current date customer can place an order."
+msgstr ""
+
+#: inc/admin.php:692
+msgid ""
+"Leave blank to not set any restricted pre-order days,This is number of days "
+"customer can not place an order before these number of days from current "
+"date."
+msgstr ""
+
+#: inc/admin.php:733
+msgid ""
+"If checked then it will increase lead time by x number of days, where x is "
+"the number of holidays fall within above pre-order restriction days counted "
+"from current date. "
+msgstr ""
+
+#: inc/admin.php:759
+msgid "If checked then shop will accept order on holidays."
+msgstr ""
+
+#: inc/admin.php:780 inc/admin.php:810 inc/admin.php:1095 inc/admin.php:1125
+msgid "From"
+msgstr ""
+
+#: inc/admin.php:786 inc/admin.php:816 inc/admin.php:1101 inc/admin.php:1131
+msgid "To"
+msgstr ""
+
+#: inc/admin.php:792
+msgid "Allowbale Pickup Time."
+msgstr ""
+
+#: inc/admin.php:822
+msgid "Allowbale Delivery Time."
+msgstr ""
+
+#: inc/admin.php:843
+msgid ""
+"This is minimum waiting time, applied on time dropdown on front-end in case "
+"of same day delivery/pickup."
+msgstr ""
+
+#: inc/admin.php:891 inc/admin.php:1002
+msgid ""
+"Customers need to place an order before this time for next day pickup, leave "
+"balnk for no restriction."
+msgstr ""
+
+#: inc/admin.php:955 inc/admin.php:1035
+msgid ""
+"Customers need to place an order before this time for next day delivery, "
+"leave balnk for no restriction."
+msgstr ""
+
+#: inc/admin.php:1077
+msgid ""
+"Choose if tracking text have to be shown on top(before order product list) "
+"or bottom(after product list)."
+msgstr ""
+
+#: inc/admin.php:1107
+msgid "The time for which no opening will be Proceeded."
+msgstr ""
+
+#: inc/admin.php:1137
+msgid "The time for which no delivery will be Proceeded."
+msgstr ""
+
+#: inc/admin.php:1338
+msgid "Make time selection mendatory."
+msgstr ""
+
+#: inc/admin.php:1354
+msgid "Ask for delivery/pickup time."
+msgstr ""
+
+#: inc/admin.php:1376
+msgid "Time field validation:"
+msgstr ""
+
+#: inc/admin.php:1378
+msgid "Ask for time:"
+msgstr ""
+
+#: inc/language-translator.php:69
+msgid "This is the text showed in Order Delivered page."
+msgstr ""
+
+#: inc/language-translator.php:72
+msgid "Eg: The order will be delivered on"
+msgstr ""
+
+#: inc/language-translator.php:72 inc/language-translator.php:110
+msgid "at"
+msgstr ""
+
+#: inc/language-translator.php:107
+msgid "This is the text showed in Order Picked Up page."
+msgstr ""
+
+#: inc/language-translator.php:110
+msgid "Eg: The order can be Picked Up on"
+msgstr ""
+
+#: inc/language-translator.php:171 inc/language-translator.php:232
+msgid "Displayed as time drop-down lebel on checkout page."
+msgstr ""
+
+#: inc/language-translator.php:200
+msgid "Displayed as calendar lebel on checkout page."
+msgstr ""
+
+#: inc/language-translator.php:261
+msgid "Displayed as pickup location drop-down lebel on checkout page."
+msgstr ""
+
+#: inc/language-translator.php:290
+msgid "Displayed as delivery location drop-down lebel on checkout page."
+msgstr ""
+
+#: inc/language-translator.php:426
+msgid "Displayed as store close notice drop-down lebel on checkout page."
+msgstr ""
+
+#: inc/language-translator.php:453
+msgid "Displayed as pickup lebel on checkout page."
+msgstr ""
+
+#: inc/language-translator.php:479
+msgid "Displayed as delivery lebel on checkout page."
+msgstr ""
+
+#: inc/language-translator.php:505
+msgid "Displayed order type lebel on order page."
+msgstr ""
+
+#: inc/language-translator.php:531
+msgid "Displayed pickup location lebel on order page."
+msgstr ""
+
+#: inc/language-translator.php:557
+msgid "Displayed pickup date lebel on order page."
+msgstr ""
+
+#: inc/language-translator.php:583
+msgid "Displayed pickup time lebel on order page."
+msgstr ""
+
+#: inc/language-translator.php:609
+msgid "Displayed delivery location lebel on order page."
+msgstr ""
+
+#: inc/language-translator.php:635
+msgid "Displayed delivery date lebel on order page."
+msgstr ""
+
+#: inc/language-translator.php:661
+msgid "Displayed delivery time lebel on order page."
+msgstr ""
+
+#: inc/language-translator.php:687
+msgid "Calender holiday lable."
+msgstr ""
+
+#: inc/language-translator.php:713
+msgid "Calender closing lable."
+msgstr ""
+
+#: inc/language-translator.php:739
+msgid "Calender date pick not allowed lable."
+msgstr ""
+
+#: inc/language-translator.php:766
+msgid "Cart minimum order."
+msgstr ""
+
+#: inc/wooodt_features_settings.php:294
+msgid "Displayed as early as possible lebel on checkout page and widget area."
+msgstr ""
+
+#: inc/wooodt_features_settings.php:321
+msgid "Displayed exact time lebel on checkout page and widget area."
+msgstr ""
